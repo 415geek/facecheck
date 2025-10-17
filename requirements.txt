@@ -1,0 +1,27 @@
+# Core scientific stack
+numpy==2.2.6
+pandas==2.2.3
+
+# Deep learning backend
+tensorflow==2.17.1
+tf-keras==2.17.0
+keras==3.4.1
+
+# DeepFace & face detection
+deepface==0.0.95
+retina-face==0.0.17
+opencv-python==4.10.0.84
+
+# Web UI
+streamlit==1.37.1
+pillow==10.4.0
+
+# Utility
+tqdm==4.67.1
+rich==14.2.0
+fire==0.7.1
+flask==3.1.2
+flask-cors==6.0.1
+
+# Optional: numerical stability & caching helpers
+scikit-learn==1.5.2
